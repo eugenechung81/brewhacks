@@ -10,7 +10,8 @@
 angular.module('frontendApp')
   .service('BackendService', function ($http, $log) {
     var service = this;
-    var baseUrl = 'http://10.0.150.54:8080/api/v1/';
+    //var baseUrl = 'http://10.0.150.54:8080/api/v1/';
+    var baseUrl = 'http://127.0.0.1:8080/api/v1/';
     this.merchants = [];
     this.transactions = [];
     this.selectedMerchant = {active: null};

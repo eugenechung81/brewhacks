@@ -7,4 +7,6 @@ from main/lib folder
 import os
 import sys
 
-sys.path.insert(0, './pylibs')
+# sys.path.insert(0, './pylibs')
+# sys.path.insert(0, '~/.virtualenv/brewhacks/lib/python2.7/site-packages')
+sys.path.insert(0, '/home/eugene/.virtualenvs/brewhacks/lib/python2.7/site-packages/')

@@ -384,7 +384,6 @@ p.quote{
 
     .search-v1 #search-v1-images .post { height: 100px; background: cyan; margin-bottom: 20px; }
     .search-v1 #search-v1-images .tall { height: 200px; }
-}
 /*end: search v1*/
 
 
@@ -3018,7 +3017,7 @@ ul li a:focus {
   -ms-transition: height .25s ease, width .25s ease;
   -o-transition: height .25s ease, width .25s ease;
   transition: height .25s ease, width .25s ease;
-  -webkit-transform: transform: translate(-50%, -50%);
+/*  -webkit-transform: transform: translate(-50%, -50%);
   -moz-transform: transform: translate(-50%, -50%);
   -ms-transform: transform: translate(-50%, -50%);
   -o-transform: transform: translate(-50%, -50%);
@@ -3027,7 +3026,7 @@ ul li a:focus {
   -moz-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   -o-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);*/
   margin-top: 90px;
   margin-left: 50px;
 }
@@ -5116,11 +5115,11 @@ ul li a:focus {
   -ms-transition: -webkit-transform 0.2s ease-in;
   -o-transition: -webkit-transform 0.2s ease-in;
   transition: -webkit-transform 0.2s ease-in;
-  -webkit-transition: transform: 0.2s ease-in;
+/*  -webkit-transition: transform: 0.2s ease-in;
   -moz-transition: transform: 0.2s ease-in;
   -ms-transition: transform: 0.2s ease-in;
   -o-transition: transform: 0.2s ease-in;
-  transition: transform: 0.2s ease-in;
+  transition: transform: 0.2s ease-in;*/
 }
 
 .nav-tabs.nav-tabs-v1 li a:focus {
